@@ -1,12 +1,18 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWFvNmdld2RmMDFqYTY0MWN4NmhvdXpjd2pwOHUxaTlicGxkOTA2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif?raw=true" width="100%" />
 
-## 👋 Hi, I'm **ESSA ALZEER**
-### PHP Web Developer
+<div align="center">
 
-I build backend-driven web applications using **PHP** and modern web technologies.  
-Focused on clean code, OOP, and real-world projects.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+ESSA+ALZEER;PHP+Web+Developer;I+build+backend-driven+web+applications" />
+
+<p>
+I focus on <strong>PHP</strong>, <strong>OOP</strong>, and building <strong>real-world web projects</strong><br>
+with clean, maintainable code.
+</p>
+
+</div>
+
 
 ---
 
